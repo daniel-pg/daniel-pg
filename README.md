@@ -1,16 +1,7 @@
 # OLÁ, :wave:
 Me chamo Daniel, e atualmente sou aluno de Engenharia de Computação na ![Unicamp](https://www.unicamp.br/unicamp/).
 
-## 👨🏻‍💻 Interesses pessoais
-* :nerd_face: Nerdices tecnológicas
-* :closed_book: Estudar idiomas
-* :video_game: Minecraft
-* :joystick: Jogos antigos
-* :art: Desenhar
-* :movie_camera: Animes e séries
-* :musical_note: Música
-
-## Tecnologias
+## Tecnologias que já usei
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
